@@ -1,1 +1,10 @@
+__pycache__
+db.sqlite3
 .env
+.idea
+.vscode
+.DS_Store
+Thumbs.db
+.replit
+pyproject.toml
+poetry.lock
